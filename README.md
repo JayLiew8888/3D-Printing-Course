@@ -2,7 +2,7 @@
 Central Location to Store all files for the 3D Printing course
 
 24/2/23: Update
-- we will use onshape
+- we will use onshape https://www.onshape.com/en/products/free
 - teach s3 vex first then they teach the rest
 - simple geometry can be taught
 - try to create slides and basic teaching plan first
